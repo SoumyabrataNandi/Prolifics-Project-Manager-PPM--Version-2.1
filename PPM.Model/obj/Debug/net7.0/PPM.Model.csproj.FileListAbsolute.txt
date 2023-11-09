@@ -1,0 +1,11 @@
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Model\obj\Debug\net7.0\PPM.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfoInputs.cache
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfo.cs
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.CoreCompileInputs.cache
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Model\bin\Debug\net7.0\PPM.Model.deps.json
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Model\bin\Debug\net7.0\PPM.Model.dll
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Model\bin\Debug\net7.0\PPM.Model.pdb
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Model\obj\Debug\net7.0\PPM.Model.dll
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Model\obj\Debug\net7.0\refint\PPM.Model.dll
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Model\obj\Debug\net7.0\PPM.Model.pdb
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Model\obj\Debug\net7.0\ref\PPM.Model.dll
